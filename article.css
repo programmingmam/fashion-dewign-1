@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+ 
+   
+    
+
+  }
+  body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Noto Sans Symbols', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+   
+  
+  }
+  .col-md-12 .btn {
+    color: #fff;
+    font-size: 17px;
+    padding: 4px 20px;
+    
+  }
+  @media (max-width:768px) {
+    .new-article img  {
+
+      padding-bottom: 10px;
+    }
+    .new-article p  {
+
+      text-transform: ;
+    }
+    
+  }
+
+
